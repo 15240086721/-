@@ -11,4 +11,6 @@
  - [第9季：耳鸣问题、戒色心态、搜集资料的重要性](https://github.com/DaMoXin/feixiang---jieweiliangyao/blob/main/%E7%AC%AC9%E5%AD%A3%EF%BC%9A%E8%80%B3%E9%B8%A3%E9%97%AE%E9%A2%98%E3%80%81%E6%88%92%E8%89%B2%E5%BF%83%E6%80%81%E3%80%81%E6%90%9C%E9%9B%86%E8%B5%84%E6%96%99%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7.txt)
  - [第10季：手淫变丑详细论述和神衰、焦虑症、社恐的康复](https://github.com/DaMoXin/feixiang---jieweiliangyao/blob/main/%E7%AC%AC10%E5%AD%A3%EF%BC%9A%E6%89%8B%E6%B7%AB%E5%8F%98%E4%B8%91%E8%AF%A6%E7%BB%86%E8%AE%BA%E8%BF%B0%E5%92%8C%E7%A5%9E%E8%A1%B0%E3%80%81%E7%84%A6%E8%99%91%E7%97%87%E3%80%81%E7%A4%BE%E6%81%90%E7%9A%84%E5%BA%B7%E5%A4%8D.txt)
  - [第11季：破戒后的心态调整、精不液化、JJ长度问题](https://github.com/DaMoXin/feixiang---jieweiliangyao/blob/main/%E7%AC%AC11%E5%AD%A3%EF%BC%9A%E7%A0%B4%E6%88%92%E5%90%8E%E7%9A%84%E5%BF%83%E6%80%81%E8%B0%83%E6%95%B4%E3%80%81%E7%B2%BE%E4%B8%8D%E6%B6%B2%E5%8C%96%E3%80%81JJ%E9%95%BF%E5%BA%A6%E9%97%AE%E9%A2%98.txt)
+ - [戒为良药 第12季：脱发问题补充、戒色后如何更好更快地恢复](https://github.com/DaMoXin/feixiang---jieweiliangyao/blob/main/%E7%AC%AC12%E5%AD%A3%EF%BC%9A%E8%84%B1%E5%8F%91%E9%97%AE%E9%A2%98%E8%A1%A5%E5%85%85%E3%80%81%E6%88%92%E8%89%B2%E5%90%8E%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E6%9B%B4%E5%BF%AB%E5%9C%B0%E6%81%A2%E5%A4%8D.txt)
  - [意yin的危害](https://github.com/DaMoXin/feixiang---jieweiliangyao/blob/main/%E6%84%8Fyin%E7%9A%84%E5%8D%B1%E5%AE%B3)
+ 
